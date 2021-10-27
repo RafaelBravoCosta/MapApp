@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\src\\project\\ProjetoFinal\\build\\google_sign_in\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\rafae\\.gradle\\caches\\transforms-2\\files-2.1\\d6b67f696541f952321d64719b2832f6\\core-1.1.0\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\src\\project\\ProjetoFinal\\build\\google_sign_in\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\rafae\\.gradle\\caches\\transforms-2\\files-2.1\\d6b67f696541f952321d64719b2832f6\\core-1.1.0\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\src\\project\\ProjetoFinal\\build\\google_sign_in\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\rafae\\.gradle\\caches\\transforms-2\\files-2.1\\d6b67f696541f952321d64719b2832f6\\core-1.1.0\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\src\\project\\ProjetoFinal\\build\\google_sign_in\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\rafae\\.gradle\\caches\\transforms-2\\files-2.1\\d6b67f696541f952321d64719b2832f6\\core-1.1.0\\res\\layout-v21\\notification_template_icon_group.xml"
+    }
+]

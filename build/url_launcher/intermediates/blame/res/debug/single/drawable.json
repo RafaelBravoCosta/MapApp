@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\src\\project\\ProjetoFinal\\build\\url_launcher\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\rafae\\.gradle\\caches\\transforms-2\\files-2.1\\d6b67f696541f952321d64719b2832f6\\core-1.1.0\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "C:\\src\\project\\ProjetoFinal\\build\\url_launcher\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\rafae\\.gradle\\caches\\transforms-2\\files-2.1\\d6b67f696541f952321d64719b2832f6\\core-1.1.0\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "C:\\src\\project\\ProjetoFinal\\build\\url_launcher\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\rafae\\.gradle\\caches\\transforms-2\\files-2.1\\d6b67f696541f952321d64719b2832f6\\core-1.1.0\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "C:\\src\\project\\ProjetoFinal\\build\\url_launcher\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\rafae\\.gradle\\caches\\transforms-2\\files-2.1\\d6b67f696541f952321d64719b2832f6\\core-1.1.0\\res\\drawable\\notification_tile_bg.xml"
+    }
+]

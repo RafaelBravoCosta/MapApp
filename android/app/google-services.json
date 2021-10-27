@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1093959837925",
+    "project_id": "mapapp-38b44",
+    "storage_bucket": "mapapp-38b44.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1093959837925:android:d6fcc4586e915234b9cc0c",
+        "android_client_info": {
+          "package_name": "com.MapApp.projeto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1093959837925-rfcb4pjkhi1ppqh5ed8g01vj6bv3aeqa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.MapApp.projeto",
+            "certificate_hash": "6769512e5ff47513c691cf6719cbd9acb9eb54a5"
+          }
+        },
+        {
+          "client_id": "1093959837925-hhkqdo57j80cdgqb9rgu81020bs98hhb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-YEVTKSG-3eFwwQXYUva3n2oUhjKpA7A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1093959837925-hhkqdo57j80cdgqb9rgu81020bs98hhb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
